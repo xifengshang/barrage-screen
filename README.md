@@ -1,2 +1,2 @@
 # barrage-screen
-12
+原生JS+Jquery实现简单弹幕效果
